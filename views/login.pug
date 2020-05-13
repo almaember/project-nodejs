@@ -1,0 +1,9 @@
+head
+  link(rel='stylesheet', href='/stylesheets/login.css')
+body  
+  .login-form
+    img(src="/img/logo-1.svg" st)
+    form(method='POST' action='/login')
+      input(type='text' name='username' placeholder='Felhasználónév' required='')
+      input(type='password' name='password' placeholder='Jelszó' required='')
+      input(type='submit' value="Bejelentkezés")
