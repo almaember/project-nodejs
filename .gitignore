@@ -1,5 +1,5 @@
 /node_modules
 /jelszavak.txt
-/db
+/api/db
 /logs
 /pw.js
