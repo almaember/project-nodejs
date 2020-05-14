@@ -3,3 +3,4 @@
 /api/db
 /logs
 /pw.js
+/api/controllers/webhooks/wooApi.js
